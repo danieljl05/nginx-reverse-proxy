@@ -1,6 +1,6 @@
 # nginx-reverse-proxy
 
-This is a example of nginx and docker.
+This is an example of nginx and docker.
 
 ## File structure
 ```
